@@ -1,0 +1,36 @@
+    
+
+
+h1 {
+    font-size: 32px; 
+    font-weight: 230;
+    letter-spacing: 4px; 
+    color: black;
+    margin-top: 25px;
+    margin-bottom: 10px; 
+    font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", 
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2 {
+    font-weight: 300; 
+    font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", 
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:rgb(124, 118, 118); 
+}
+p{
+    font-weight:310; 
+    font-size: 15px; 
+    text-align: left; 
+    
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", 
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+.body{
+    font-size: 15px; 
+    margin-left: 5em; 
+    margin-right: 30em;
+    text-align: left; 
+    background: rgb(219, 217, 217); 
+}
